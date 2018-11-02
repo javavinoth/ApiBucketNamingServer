@@ -1,0 +1,1 @@
+# ApiBucketNamingServer V1
